@@ -2,13 +2,7 @@
 
 #include <time.h>
 
-#include <stdio.h>
-
-/**
- * main print if number is positive, zero or negative
- * return: Always (success)
- */
-
+/* main print if number is positive, zero or negative */
 int main(void)
 {
 	int n;
