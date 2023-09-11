@@ -1,8 +1,14 @@
 #include <stdlib.h>
 
+#include <stdio.h>
+
 #include <time.h>
 
-/* main print if number is positive, zero or negative */
+/**
+ * main - assign a random number to a variable
+ * Return: Always (success)
+ */
+
 int main(void)
 {
 	int n;
