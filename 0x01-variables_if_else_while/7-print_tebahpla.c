@@ -2,15 +2,15 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - print the lowercase alphabet in revese
+ * main - smile in the mirror
  * Return: Always (success)
  */
 int main(void)
 {
-	int d;
+	int low;
 
-	for (d = '0'; d <= '9'; d++)
-		putchar(d);
+	for (low = 'z'; low <= 'a'; low++)
+		putchar(low);
 	putchar("\n")
-		return (0)
+		return (0);
 }
