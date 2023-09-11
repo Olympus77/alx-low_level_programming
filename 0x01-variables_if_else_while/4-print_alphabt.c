@@ -4,11 +4,9 @@
 
 /**
  * main - Alpherbet of lowercase
- * RETURN: Always 0 (success)
+ * Return: Always (success)
  */
-
 int main(void)
-
 {
 	char low, e, q;
 
@@ -20,6 +18,5 @@ int main(void)
 	putchar(low);
 	}
 	putchar('\n');
-	
 	return (0);
 }
