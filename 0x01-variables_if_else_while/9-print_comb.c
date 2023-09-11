@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Patience, persistence and perspiration make an unbeatable combination for success
+ * main - Patiences
  * Return: Always (success)
  */
 int main(void)
@@ -15,10 +15,9 @@ int main(void)
 		if (d != '9')
 		{
 			putchar(',');
+			putchar(' ');
 		}
 	}
 putchar('\n');
 return (0);
 }
-
-
