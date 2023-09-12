@@ -1,7 +1,7 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - A program that prints the size of varius types on the computer
- * Return 0 (success)
+ * Return: 0 (success)
  */
 int main(void)
 {
